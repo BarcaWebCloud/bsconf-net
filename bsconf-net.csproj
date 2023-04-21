@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>bsconf_net</RootNamespace>
+    <Company>Barca Corporation</Company>
+    <Description>A library .NET for define server configurations, repairs and installations in various operating environments.</Description>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>BSconf.0.1.0</PackageId>
+    <Version>0.1.0</Version>
+    <Copyright>Barca Inc</Copyright>
+    <Authors>anibal_barca</Authors>
+    <Company>barca_corporation</Company>
+  </PropertyGroup>
+
+</Project>
